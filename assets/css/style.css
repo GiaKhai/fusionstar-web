@@ -767,10 +767,6 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us .container {
-  margin-top: 0px !important;
-  margin-bottom: 0px !important;
-  padding-top: 30px !important;
-  padding-bottom: 30px !important;
   background-image: url(https://www.techfi.io/wp-content/uploads/2021/06/365-Converted-1.png?id=8129) !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
@@ -779,7 +775,6 @@ section {
 
 
 .why-us .icon-box .title {
-  margin-left: 95px;
   font-weight: 700;
   margin-bottom: 10px;
   font-size: 30px;
@@ -789,7 +784,6 @@ section {
 }
 
 .why-us .icon-box .title-2 {
-  margin-left: 95px;
   font-weight: 700;
   margin-bottom: 10px;
   font-size: 25px;
@@ -805,7 +799,6 @@ section {
 
 
 .why-us .icon-box .description {
-  margin-left: 95px;
   line-height: 24px;
   font-size: 18px;
   color: white;
